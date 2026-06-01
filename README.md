@@ -1,16 +1,26 @@
-# React + Vite
+# 🛒 E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An end-to-end **E-Commerce platform** built with **React** (frontend) and **Java Spring Boot** (backend).  
+This project demonstrates a scalable architecture for modern online shopping experiences, including product browsing, cart management, secure checkout, and admin dashboards.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- **[User Authentication](ca://s?q=Explain_user_authentication_in_ecommerce)**: Secure login & registration with JWT-based sessions.
+- **[Product Catalog](ca://s?q=Describe_product_catalog_in_ecommerce)**: Dynamic product listing with search, filters, and categories.
+- **[Shopping Cart](ca://s?q=Explain_shopping_cart_functionality)**: Add, update, and remove items with real-time price calculation.
+- **[Order Management](ca://s?q=Explain_order_management_in_ecommerce)**: Place orders, track status, and view history.
+- **[Admin Dashboard](ca://s?q=Describe_admin_dashboard_in_ecommerce)**: Manage products, users, and orders.
+- **[Payment Integration](ca://s?q=Explain_payment_gateway_integration)**: Secure checkout with third-party payment gateways.
+- **[Responsive UI](ca://s?q=Explain_responsive_UI_design)**: Optimized for desktop, tablet, and mobile devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Layer            | Technology |
+|------------------|------------|
+| **Frontend**     | **[React](ca://s?q=Tell_me_about_React)**, Axios |
+| **Backend**      | **[Java Spring Boot](ca://s?q=Explain_Spring_Boot_framework)**, REST APIs |
+
